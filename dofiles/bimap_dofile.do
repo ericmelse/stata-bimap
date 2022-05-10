@@ -1,5 +1,5 @@
 *------------------------- set your working directory 设置工作路径
-   globap path "D:/"
+   global path "D:/"
 *------------------------- set over
 
 cd "$path"  
